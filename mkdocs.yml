@@ -4,9 +4,4 @@ nav:
     - Home: index.md
     - Setting up Kali Linux: Virtual_Lab_Setup.md
 
-theme:
-  name: 'material'
-
-google_analytics:
-  - UA-510626-7
-  - auto
+theme: readthedocs
