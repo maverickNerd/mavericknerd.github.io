@@ -32,4 +32,4 @@ Then comes the last phase called "Reporting" phase, in this, the pentester summa
 I am covering all these phases including some other resource that will help you in OSCP as well as pentesting journey.
 
 ## Content
-- [Setting Up Kali Linux](https://github.com/blackinfo/Preparation-Guide-to-OSCP/tree/master/Setting%20up%20Kali%20Linux)
+- [Setting Up Kali Linux](Virtual_Lab_Setup.md)
