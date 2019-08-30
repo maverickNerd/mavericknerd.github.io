@@ -5,8 +5,7 @@ nav:
     - Setting up Kali Linux: Virtual_Lab_Setup.md
 
 theme:
-  name: null
-  custom_dir: 'mkdocs-material/material'
+  name: 'material'
 
 google_analytics:
   - UA-510626-7
